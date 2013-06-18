@@ -1,6 +1,6 @@
 public class Test {
 	/**
-	 * JAVADOC LOL
+	 * JAVADOC LOL 
 	 * @param args
 	 */
 	public static void main(String[] args) { 
