@@ -1,9 +1,9 @@
 public class Test {
 	/**
-	 * JAVADOC WHOOOO?
+	 * JAVADOC WHOOOO? I broke the commit
 	 * @param args lolol
 	 */
 	public static void main(String[] args) { 
-		System.out.println("Hello uoiGitHub!!");
+		System.out.println("Hello ofiewoij!!");
 	}
 }
