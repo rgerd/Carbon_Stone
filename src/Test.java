@@ -1,6 +1,6 @@
 public class Test {
 	/**
-	 * JAVADOC WHOOOO? Gotta love these javadocs
+	 * JAVADOC WHOOOO? You broke the commit
 	 * @param args
 	 */
 	public static void main(String[] args) { 
