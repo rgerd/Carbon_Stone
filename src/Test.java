@@ -4,6 +4,6 @@ public class Test {
 	 * @param args lolol
 	 */
 	public static void main(String[] args) { 
-		System.out.println("Hello GitHub!!");
+		System.out.println("Hello uoiGitHub!!");
 	}
 }
