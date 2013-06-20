@@ -1,5 +1,6 @@
 public class Main {
 	//LOL LOOK AT THIS SUPER GOOD CODE
+	//ISN'T IT LOVELY
 	/**
 	 * STARTS THE GAME
 	 */
