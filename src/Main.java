@@ -2,7 +2,8 @@ public class Main {
 	//LOL LOOK AT THIS SUPER GOOD CODE
 	//ISN'T IT LOVELY
 	//LOLOLOL
-	//OMG WE HAVE AN RSS FEED NOW
+	//https://github.com/rgerd/Carbon_Stone/commits/master.atom
+	//^hopefully an RSS Feed, idk
 	/**
 	 * STARTS THE GAME
 	 */
