@@ -2,6 +2,7 @@ public class Main {
 	//LOL LOOK AT THIS SUPER GOOD CODE
 	//ISN'T IT LOVELY
 	//LOLOLOL
+	//OMG WE HAVE AN RSS FEED NOW
 	/**
 	 * STARTS THE GAME
 	 */
